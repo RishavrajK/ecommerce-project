@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+
+}
+
+/* clothing collection styling */
+.container {
+    padding: 20px;
+}
+
+.cloth-collection {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.cloth-item {
+    background-color: white;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 23%;
+    text-align: center;
+}
+
+.cloth-item img {
+    /* width: 100%; */
+    height: auto;
+    border-radius: 5px;
+}
+
+.cloth-item h3 {
+    margin: 10px 0;
+}
+
+.cloth-item p {
+    color: #666;
+    margin: 10px 0;
+}
+
+.cloth-item .price {
+    color: #4CAF50;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+.cloth-item .buy-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.cloth-item .buy-button:hover {
+    background-color: #45a049;
+}
+
+@media (max-width: 768px) {
+    .cloth-item {
+        width: 48%;
+    }
+}
+
+@media (max-width: 480px) {
+    .cloth-item {
+        width: 100%;
+    }
+}
