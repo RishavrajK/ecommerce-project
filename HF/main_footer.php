@@ -113,8 +113,8 @@
         <div class="tag">
             <h1>Quick Link</h1>
             <a href="./index.php">Home</a>
-            <a href="../project_sem6/about_us.php">About</a>
-            <a href="../project_sem6/admin_pages/admin_login.php">Admin</a>
+            <a href="../ecommerce-project/about_us.php">About</a>
+            <a href="../ecommerce-project/admin_pages/admin_login.php">Admin</a>
         </div>
 
         <div class="tag">

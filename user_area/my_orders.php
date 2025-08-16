@@ -64,7 +64,7 @@ $user_id = $row_fetch['user_id'];
                 if($order_status == 'Complete'){
                     echo "<td style='color:green; font-weight: bold;'>PAID</td>";
                 }else{
-                echo "<td><a href='../project_sem6/user_area/confirm_payment.php?order_id=$order_id' class='btn'>Confirm</a></td>
+                echo "<td><a href='../ecommerce-project/user_area/confirm_payment.php?order_id=$order_id' class='btn'>Confirm</a></td>
                 </tr>";
                         }
                 $number++;

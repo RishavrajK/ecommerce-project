@@ -54,19 +54,19 @@ include('function/common_function.php');
                 //check condion for edit_account
 
                 if(isset($_GET['edit_account'])) {
-                    include("../project_sem6/user_area/edit_account.php");
+                    include("../ecommerce-project/user_area/edit_account.php");
                 }
 
                 //check condion for my_order
 
                 if(isset($_GET['my_orders'])) {
-                    include("../project_sem6/user_area/my_orders.php");
+                    include("../ecommerce-project/user_area/my_orders.php");
                 }
 
                 //delete user account
 
                 if(isset($_GET['delete_account'])) {
-                    include("../project_sem6/user_area/delete_account.php");
+                    include("../ecommerce-project/user_area/delete_account.php");
                 }
                 ?>
             

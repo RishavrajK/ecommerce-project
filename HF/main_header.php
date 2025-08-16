@@ -71,7 +71,7 @@
         </div>
         <ul>
             <li><a href="./index.php">Home</a></li>
-            <li><a href="../project_sem6/about_us.php">About us</a></li>
+            <li><a href="../ecommerce-project/about_us.php">About us</a></li>
             <li><a href="collection.php">Products</a></li>
             <li><a href="cart.php"><i class="fa-solid fa-cart-shopping"></i><sup><?php cart_item(); ?></sup></a></li>
             <?php
