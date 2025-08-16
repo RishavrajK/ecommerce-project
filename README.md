@@ -1,8 +1,7 @@
 # 📦 Clothify – E-commerce Website
 
 ![PHP](https://img.shields.io/badge/PHP-7.4+-blue?logo=php)  
-![MySQL](https://img.shields.io/badge/MySQL-5.7+-yellow?logo=mysql)  
-![Status](https://img.shields.io/badge/Status-MVP-green)
+![MySQL](https://img.shields.io/badge/MySQL-5.7+-yellow?logo=mysql)
 
 ## 📖 Overview
 **Clothify** is a simple e-commerce website built as a **Minimum Viable Product**.  
