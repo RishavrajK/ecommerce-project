@@ -127,7 +127,7 @@ CREATE TABLE orders_pending (
 
 ## 🔑 Default Credentials
 - **Admin Login**  
-  - Username: `admin`  
+  - Username: `raj`  
   - Password: `1234`  
 
 ---
