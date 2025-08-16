@@ -163,5 +163,5 @@ CREATE TABLE orders_pending (
 
 ## 👨‍💻 Author
 - **Rishav Raj**  
-📧 [rishavmarket@gmail.com](mailto:rishavmarket@gmail.com)  
+📧 [rishavmarket@gmail.com](mailto:rishavraj3378kant@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/rishav-raj-713392315) | [GitHub](https://github.com/RishavrajK)  
